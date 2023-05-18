@@ -1,2 +1,2 @@
 # TimoCreativeCakes
-https://timocake.me/#product
+https://timocake.me
